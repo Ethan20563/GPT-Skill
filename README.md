@@ -1,3 +1,6 @@
 # GPT-Skill
 
-机械设计手册第六版 -通过Book to skill 转化为 Chat GPT Skill 文件；
+书籍名称：
+
+《机械设计手册 第六版》 
+《现代永磁电机理论及设计》 唐任远 
